@@ -6,7 +6,11 @@
 
 ## Conhecimento nas tecnologias:
 <div style = "display :inline_block"><br/>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
- 
+ ![icons8-html-48](https://github.com/kaueh-silva/kaueh-silva/assets/128000044/774be65d-8ab9-4490-9dc2-3f419df06ad9)
+
+ ![icons8-css-48](https://github.com/kaueh-silva/kaueh-silva/assets/128000044/bbab4bb7-fff1-4e5f-9f40-0679106d527a)
+
+![icons8-javascript-48](https://github.com/kaueh-silva/kaueh-silva/assets/128000044/40b8c2ef-f00c-47d6-90fa-019c43991b3f)
+
 </div>
 
