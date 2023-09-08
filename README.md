@@ -14,6 +14,6 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueh-silva)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Atualmente cursando 1°semestre em Analise e desenvolvimento de sistemas na Anhanguera
