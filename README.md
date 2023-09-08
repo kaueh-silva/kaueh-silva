@@ -6,8 +6,7 @@
 
 ## Conhecimento nas tecnologias:
 
-<div>
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/kauê-silva-2a3a9b219)
-
+<div style ="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
