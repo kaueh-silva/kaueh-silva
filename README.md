@@ -4,5 +4,5 @@
 
 ![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueh-silva&show_icons=true&theme=tokyonight)
 
-
+## Conhecimento nas tecnologias:
 
