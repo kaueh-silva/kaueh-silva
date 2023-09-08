@@ -1,4 +1,4 @@
-### Ola, me chama Kauê👋
+### Ola, me chamo Kauê👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/kauê-silva-2a3a9b219)
 
@@ -12,4 +12,6 @@
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+## Atualmente cursando 1°semestre em Analise e desenvolvimento de sistemas na Anhanguera
