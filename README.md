@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/kauê-silva-2a3a9b219)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola+me+chamo+Kauê;Second+line+of+text)](https://git.io/typing-svg)
 
 
 ![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueh-silva&show_icons=true&theme=gradient)
