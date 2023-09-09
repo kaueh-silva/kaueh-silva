@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 ### Ola, me chamo Kauê👋
 
