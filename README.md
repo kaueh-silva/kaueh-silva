@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
-### Ola, me chamo Kauê👋, tenho 26 anos
+### Ola, me chamo Kauê👋, tenho 27 anos
 Atualmente cursando 1°semestre em Analise e desenvolvimento de sistemas na Anhanguera.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/kauê-silva-2a3a9b219)
