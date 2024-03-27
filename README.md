@@ -3,7 +3,7 @@
 ### Ola, me chamo Kauê👋, tenho 27 anos
 Atualmente cursando 2°semestre em Analise e desenvolvimento de sistemas na Anhanguera.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/kauê-silva-2a3a9b219)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-silva-2a3a9b219/)
 
 ## Conhecimento das tecnologias:
 
